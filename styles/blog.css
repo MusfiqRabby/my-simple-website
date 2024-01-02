@@ -2,10 +2,12 @@ div{
     background: teal;
     margin: 10px;
     padding: 10px;
+    background-image: url('');
 }
 
 .tag{
     font-weight: 700;
     color: red;
+
 }
    
